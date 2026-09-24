@@ -17,19 +17,3 @@ role:         BBA Student @ KICST University, Kahuta
 location:     Kahuta, Punjab, Pakistan
 email:        mf7167816@gmail.com
 focus:        [Business Management, Marketing Strategy, HRM
-### 🛠️ Tech Stack
-
-![Management](https://img.shields.io/badge/Management-0077B5?style=for-the-badge)
-![Marketing](https://img.shields.io/badge/Marketing-FF6F00?style=for-the-badge)
-![Accounting](https://img.shields.io/badge/Accounting-217346?style=for-the-badge)
-![HRM](https://img.shields.io/badge/HRM-D24726?style=for-the-badge)
-![BBA](https://img.shields.io/badge/BBA-000000?style=for-the-badge)
-
-### ✨ My Skills
-
-![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![BBA](https://img.shields.io/badge/BBA-000000?style=for-the-badge)
-![Windows Basic](https://img.shields.io/badge/Windows_Basic-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Computer Course](https://img.shields.io/badge/Computer_Course-4285F4?style=for-the-badge)

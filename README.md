@@ -16,6 +16,24 @@
 
 #### 🛠️ Skills
 `Business Management` `Strategic Planning` `Marketing` `Leadership` `Business Communication`
+# Hi, I'm Mahnoor Fatima 👋
+### BBA Student at KICST University
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mf7167816@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mf7167816-create)
+
+---
+### 👩‍💼 About Me
+- 🎓 BBA Student - KICST University
+- 💼 Aspiring Business Professional
+- 🌱 Interested in Business Management & Leadership
+- 📫 Email: mf7167816@gmail.com
+
+---
+### 🚀 Skills
+![Business](https://img.shields.io/badge/Business-Management-blue)
+![Leadership](https://img.shields.io/badge/Leadership-Expert-green)
+![Marketing](https://img.shields.io/badge/Marketing-Skills-orange)
 #### 📊 GitHub Stats
 ![Mahnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mf7167816-create&show_icons=true&theme=radical)

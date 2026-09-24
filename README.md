@@ -16,24 +16,23 @@
 
 #### 🛠️ Skills
 `Business Management` `Strategic Planning` `Marketing` `Leadership` `Business Communication`
-# Hi, I'm Mahnoor Fatima 👋
-### BBA Student at KICST University
+### 🛠️ Skills - BBA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mf7167816@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mf7167816-create)
+**BBA Core Courses**
+[Principles of Management](https://img.shields.io/badge/Principles_of-Management-blue?style=for-the-badge)
+[Marketing Management](https://img.shields.io/badge/Marketing-Management-orange?style=for-the-badge)
+[Financial Accounting](https://img.shields.io/badge/Financial-Accounting-green?style=for-the-badge)
+[Business Communication](https://img.shields.io/badge/Business-Communication-yellow?style=for-the-badge)
+[Human Resource Management](https://img.shields.io/badge/HRM-Human_Resource-red?style=for-the-badge)
+[Business Law](https://img.shields.io/badge/Business-Law-lightgrey?style=for-the-badge)
 
----
-### 👩‍💼 About Me
-- 🎓 BBA Student - KICST University
-- 💼 Aspiring Business Professional
-- 🌱 Interested in Business Management & Leadership
-- 📫 Email: mf7167816@gmail.com
+**MS Office**
+[MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+[MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+[MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+[MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
 
----
-### 🚀 Skills
-![Business](https://img.shields.io/badge/Business-Management-blue)
-![Leadership](https://img.shields.io/badge/Leadership-Expert-green)
-![Marketing](https://img.shields.io/badge/Marketing-Skills-orange)
-#### 📊 GitHub Stats
-![Mahnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mf7167816-create&show_icons=true&theme=radical)
+**Other Skills**
+[Leadership](https://img.shields.io/badge/Leadership-Expert-9cf?style=for-the-badge)
+[Team Work](https://img.shields.io/badge/Team-Work-success?style=for-the-badge)
+[Presentation Skills](https://img.shields.io/badge/Presentation-Skills-ff69b4?style=for-the-badge)

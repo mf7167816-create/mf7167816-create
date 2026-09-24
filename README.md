@@ -17,24 +17,3 @@ role:         BBA Student @ KICST University, Kahuta
 location:     Kahuta, Punjab, Pakistan
 email:        mf7167816@gmail.com
 focus:        [Business Management, Marketing Strategy, HRM
-
-### 🛠️ Skills - BBA
-
-**BBA Core Courses**
-[Principles of Management](https://img.shields.io/badge/Principles_of-Management-blue?style=for-the-badge)
-[Marketing Management](https://img.shields.io/badge/Marketing-Management-orange?style=for-the-badge)
-[Financial Accounting](https://img.shields.io/badge/Financial-Accounting-green?style=for-the-badge)
-[Business Communication](https://img.shields.io/badge/Business-Communication-yellow?style=for-the-badge)
-[Human Resource Management](https://img.shields.io/badge/HRM-Human_Resource-red?style=for-the-badge)
-[Business Law](https://img.shields.io/badge/Business-Law-lightgrey?style=for-the-badge)
-
-**MS Office**
-[MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-[MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-[MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-[MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
-
-**Other Skills**
-[Leadership](https://img.shields.io/badge/Leadership-Expert-9cf?style=for-the-badge)
-[Team Work](https://img.shields.io/badge/Team-Work-success?style=for-the-badge)
-[Presentation Skills](https://img.shields.io/badge/Presentation-Skills-ff69b4?style=for-the-badge)

@@ -17,3 +17,5 @@ role:         BBA Student @ KICST University, Kahuta
 location:     Kahuta, Punjab, Pakistan
 email:        mf7167816@gmail.com
 focus:        [Business Management, Marketing Strategy, HRM
+
+2b220b792b6977b876b2ca778bd7f6e96ed6bfd1

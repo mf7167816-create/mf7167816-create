@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahnoor+Fatima;BBA+Student+%40+KICST+University;Aspiring+Business+Leader+%26+Manager;Business+Management+%7C+Marketing+Strategy+%7C+HRM" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahnoor+Fatima;BBA+Student+%40+KICST+University;Aspiring+Business+Leader;Business+Management+%7C+Marketing+%7C+HRM" alt="Typing SVG" />
 
 </div>
 
@@ -18,9 +18,7 @@
 
 ```yaml
 name:         Mahnoor Fatima
-role:         BBA Student | Aspiring Business Leader
-affiliation:  KICST University, Kahuta
+role:         BBA Student @ KICST University, Kahuta
 location:     Kahuta, Punjab, Pakistan 🇵🇰
-focus:        [Business Management, Marketing Strategy, HRM,
-               Leadership, Entrepreneurship]
+focus:        [Business Management, Marketing Strategy, HRM]
 status:       Open to collaborations ✨

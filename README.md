@@ -1,4 +1,7 @@
-elds.io/badge/Business%20Management-0A66C2?style=for-the-badge)
+### Hi there, I'm Mahnoor Fatima 👋
+BBA Student | Learning Business & Technology
+
+![Business Management](https://img.shields.io/badge/Business%20Management-0A66C2?style=for-the-badge)
 ![Marketing Strategy](https://img.shields.io/badge/Marketing-FF6B6B?style=for-the-badge)
 ![HRM](https://img.shields.io/badge/HRM-4CAF50?style=for-the-badge)
 ![BBA](https://img.shields.io/badge/BBA-9C27B0?style=for-the-badge)
@@ -8,7 +11,7 @@ elds.io/badge/Business%20Management-0A66C2?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Basic Computer](https://img.shields.io/badge/Basic%20Course-673AB7?style=for-the-badge)
 
-### What I am Learning
+### 📚 What I am Learning
 ![Business Management](https://img.shields.io/badge/Learning-Business%20Management-blue?style=flat-square)
 ![Marketing](https://img.shields.io/badge/Learning-Marketing-red?style=flat-square)
 ![HRM](https://img.shields.io/badge/Learning-HRM-green?style=flat-square)

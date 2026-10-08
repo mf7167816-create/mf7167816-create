@@ -1,10 +1,17 @@
-![BBA](https://img.shields.io/badge/BBA-9C27B0?style=for-the-badge)
-![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Basic Course](https://img.shields.io/badge/Basic%20Course-673AB7?style=for-the-badge)
+# Hi 👋, I'm Mahnoor Fatima
 
-### 📚 What I am Learning
-![MS Office](https://img.shields.io/badge/Learning-MS%20Office-orange?style=flat-square)
-![Windows](https://img.shields.io/badge/Learning-Windows%20%26%20Basic-9C27B0?style=flat-square)
+### BBA Student | Learning Business & Technology
+
+[[LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[[GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[[GITHUB](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
+### 🧭 About Me
+
+```yaml
+name: Mahnoor Fatima
+role: BBA Student | Learner
+affiliation: Bachelor of Business Administration (BBA)
+location: Kahuta, Punjab, Pakistan PK
+focus: [MS Word, MS Excel, PowerPoint, Basic Computer, Online Working]
+status: Learning and growing every day 🌱

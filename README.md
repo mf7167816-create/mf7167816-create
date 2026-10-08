@@ -1,6 +1,3 @@
-### Hi there, I'm Mahnoor Fatima 👋
-BBA Student | Learning Business & Technology
-
 ![Business Management](https://img.shields.io/badge/Business%20Management-0A66C2?style=for-the-badge)
 ![Marketing Strategy](https://img.shields.io/badge/Marketing-FF6B6B?style=for-the-badge)
 ![HRM](https://img.shields.io/badge/HRM-4CAF50?style=for-the-badge)

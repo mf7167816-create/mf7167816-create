@@ -1,15 +1,16 @@
-# Hi 👋, I'm Mahnoor Fatima
-### BBA Student | Learning Business & Technology
+![Business Management](https://img.shields.io/badge/Business%20Management-0A66C2?style=for-the-badge)
+![Marketing Strategy](https://img.shields.io/badge/Marketing-FF6B6B?style=for-the-badge)
+![HRM](https://img.shields.io/badge/HRM-4CAF50?style=for-the-badge)
+![BBA](https://img.shields.io/badge/BBA-9C27B0?style=for-the-badge)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Basic Computer](https://img.shields.io/badge/Basic%20Course-673AB7?style=for-the-badge)
 
-![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
-
-### 🧭 About Me
-```yaml
-name: Mahnoor Fatima
-role: BBA Student | Learner
-affiliation: Bachelor of Business Administration (BBA)
-location: Kahuta, Punjab, Pakistan
-focus: [MS Word, MS Excel, PowerPoint, Basic Computer, Online Working]
-status: Learning and growing every day 🌱
+### 📚 What I am Learning
+![Business Management](https://img.shields.io/badge/Learning-Business%20Management-blue?style=flat-square)
+![Marketing](https://img.shields.io/badge/Learning-Marketing-red?style=flat-square)
+![HRM](https://img.shields.io/badge/Learning-HRM-green?style=flat-square)
+![MS Office](https://img.shields.io/badge/Learning-MS%20Office-orange?style=flat-square)
+![Windows](https://img.shields.io/badge/Learning-Windows%20%26%20Basic-9C27B0?style=flat-square)

@@ -1,5 +1,7 @@
-### Hi there, I'm Mahnoor Fatima 👋
-BBA Student | Learning Business & Technology
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahnoor%20Fatima&fontSize=45&fontColor=ffffff&animation=fadeIn)
+
+### Hi, I'm Mahnoor Fatima 👋
+> BBA Student | Learning Business & Technology
 
 ![Business Management](https://img.shields.io/badge/Business%20Management-0A66C2?style=for-the-badge)
 ![Marketing Strategy](https://img.shields.io/badge/Marketing-FF6B6B?style=for-the-badge)
@@ -16,4 +18,4 @@ BBA Student | Learning Business & Technology
 ![Marketing](https://img.shields.io/badge/Learning-Marketing-red?style=flat-square)
 ![HRM](https://img.shields.io/badge/Learning-HRM-green?style=flat-square)
 ![MS Office](https://img.shields.io/badge/Learning-MS%20Office-orange?style=flat-square)
-![Windows](https://img.shields.io/badge/Learning-Windows%20%26%20Basic-9C27B0?style=flat-square)
+![Windows](https://img.shields.io/badge/Learning-Windows%20&%20Basic-9C27B0?style=flat-square)

@@ -21,7 +21,7 @@ name:         mahnoor Fatima
 
 role:         BBA Student | First Semester
 
-location:     Pakistan pk
+location:     Pakistan 
 
 education:    BBA (Bachelor of Business Administration)
 

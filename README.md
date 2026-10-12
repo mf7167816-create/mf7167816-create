@@ -22,4 +22,16 @@ role:         BBA Student | First Semester
 location:     Pakistan 🇵🇰
 education:    BBA (Bachelor of Business Administration)
 
+### 🛠 Skills
+
+**💻 Computer Skills**
+![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+**📊 Professional Skills**
+![Business](https://img.shields.io/badge/Business_Management-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white)
+![Office](https://img.shields.io/badge/Office_Management-4ECDC4?style=for-the-badge&logo=notion&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-45B7D1?style=for-the-badge&logo=googlemessages&logoColor=white)
+
 

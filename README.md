@@ -17,13 +17,13 @@
 ## 🧭 About Me
 
 
-name:         Mahnoor Fatima
+Name:         Mahnoor Fatima
 
-role:         BBA Student | First Semester
+Role:         BBA Student | First Semester
 
-location:     Pakistan 
+Location:     Pakistan 
 
-education:    BBA (Bachelor of Business Administration)
+Education:    BBA (Bachelor of Business Administration)
 
 
 

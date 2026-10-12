@@ -22,6 +22,12 @@ role:         BBA Student | First Semester
 location:     Pakistan
 education:    BBA (Bachelor of Business Administration)
 
+
+
+
+
+
+
 ### 🛠 Skills
 
 **💻 Computer Skills**

@@ -16,7 +16,7 @@
 
 ## 🧭 About Me
 
-```yaml
+
 name:         mahnoor Fatima
 role:         BBA Student | First Semester
 location:     Pakistan 🇵🇰

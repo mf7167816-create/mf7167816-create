@@ -22,17 +22,6 @@ role:         BBA Student | First Semester
 location:     Pakistan 🇵🇰
 education:    BBA (Bachelor of Business Administration)
 
-my_skills:
-  computer:
-    - MS Word
-    - MS Excel
-    - MS PowerPoint
-  business:
-    - Business Management
-    - Office Management
-    - Communication Skills
-  other:
-    - Time Management
-    - Team Work
+
 focus:        [Business Management, MS Office, Communication Skills]
 status:       Learning and exploring new skills ✨

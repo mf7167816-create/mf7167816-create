@@ -17,7 +17,7 @@
 ## 🧭 About Me
 
 
-name:         mahnoor Fatima
+name:         Mahnoor Fatima
 
 role:         BBA Student | First Semester
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Yamanur+Fatima;BBA+Student+%7C+First+Semester;Passionate+About+Business+%26+Management;Learning+and+Growing+Everyday" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+mahnoor+Fatima;BBA+Student+%7C+First+Semester;Passionate+About+Business+%26+Management;Learning+and+Growing+Everyday" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 🧭 About Me
 
 ```yaml
-name:         Yamanur Fatima
+name:         mahnoor Fatima
 role:         BBA Student | First Semester
 location:     Pakistan 🇵🇰
 education:    BBA (Bachelor of Business Administration)

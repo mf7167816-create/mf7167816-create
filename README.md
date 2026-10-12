@@ -23,20 +23,3 @@ location:     Pakistan 🇵🇰
 education:    BBA (Bachelor of Business Administration)
 
 
-## 🛠 Skills
-
-#### 💻 Computer Skills
-
-![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![Basic Computer](https://img.shields.io/badge/Basic_Computer-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-
-#### 📊 Business & Professional Skills
-
-![Business Management](https://img.shields.io/badge/Business_Management-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white)
-![Office Management](https://img.shields.io/badge/Office_Management-4ECDC4?style=for-the-badge&logo=notion&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-45B7D1?style=for-the-badge&logo=googlemessages&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time_Management-96CEB4?style=for-the-badge&logo=clockify&logoColor=white)
-![Team Work](https://img.shields.io/badge/Team_Work-FFEAA7?style=for-the-badge&logo=people&logoColor=black)focus:        [Business Management, MS Office, Communication Skills]
-status:       Learning and exploring new skills ✨
